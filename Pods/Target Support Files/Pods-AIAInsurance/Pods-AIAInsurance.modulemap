@@ -1,0 +1,6 @@
+framework module Pods_AIAInsurance {
+  umbrella header "Pods-AIAInsurance-umbrella.h"
+
+  export *
+  module * { export * }
+}
